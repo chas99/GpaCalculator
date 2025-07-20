@@ -1,7 +1,5 @@
-/* Chidera Azubuike, IT 312, May 12 2023, Using operators to calculate GPA & Honors */
-
-/* In the beginning I found myself having some issues with the code placements, where to insert functions, and more */
-/* I had some errors due to inconsistency, I had to go back and change some things around. I declared the bool statements once, and if I didn't I would receive errors. Also, I couldn't alter in letter grades and if I tried, the calculator would not work. The code is based on a 4.0 scale for now. */
+/* Chas Azubuike, Using operators to calculate GPA & Honors */
+/* I declared the bool statements once, the code is based on a 4.0 scale for now. */
 
 #include <iostream>
 using namespace std;
